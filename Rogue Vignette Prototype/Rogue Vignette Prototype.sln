@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rogue Vignette Prototype", "Assembly-CSharp.csproj", "{DE537C14-21FA-A45E-D7CC-C661FA011777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rogue Vignette Prototype", "Assembly-CSharp-Editor.csproj", "{1A93BDBE-B9A2-8D30-F205-A9645C5088A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE537C14-21FA-A45E-D7CC-C661FA011777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE537C14-21FA-A45E-D7CC-C661FA011777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE537C14-21FA-A45E-D7CC-C661FA011777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE537C14-21FA-A45E-D7CC-C661FA011777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A93BDBE-B9A2-8D30-F205-A9645C5088A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A93BDBE-B9A2-8D30-F205-A9645C5088A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A93BDBE-B9A2-8D30-F205-A9645C5088A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A93BDBE-B9A2-8D30-F205-A9645C5088A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
